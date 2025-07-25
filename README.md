@@ -23,7 +23,7 @@ Each project demonstrates different aspects of working with data — from cleani
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Sales Dashboard | An interactive dashboard analyzing sales performance and KPIs. | [View Project](#) |
+| Sales Dashboard | An interactive dashboard analyzing sales performance and KPIs. | [View Project](https://github.com/Usha127/DA-Projects---Power-BI/tree/master/Sales%20Data%20Analysis) |
 
 
 > *More projects coming soon...*
