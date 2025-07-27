@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio Projects
+# 📊 Power BI Portfolio Projects and Python Projects
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi)
 ![Analytics](https://img.shields.io/badge/Analytics-Business%20Intelligence-blue?style=for-the-badge&logo=databricks)
@@ -8,9 +8,11 @@
 
 ## ✨ Welcome!
 
-Welcome to my **Power BI Portfolio Repository**!  
-Here you'll find a curated collection of **Power BI projects and dashboards** that showcase my skills in:
+Welcome to my **Portfolio Projects Repository**!  
+Here you'll find a curated collection of **Power BI dashboards and Python Projects** that showcase my skills in:
 
+- 📊 **Data Cleaning**
+- 📊 **Data Analysis**
 - 📊 **Data Visualization**
 - 📈 **Business Intelligence**
 - 📉 **Analytics using Power BI**
@@ -23,7 +25,8 @@ Each project demonstrates different aspects of working with data — from cleani
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Sales Dashboard | An interactive dashboard analyzing sales performance and KPIs. | [View Project](https://github.com/Usha127/DA-Projects---Power-BI/tree/master/Sales%20Data%20Analysis) |
+| Sales Data Analysis Dashboard | An interactive dashboard analyzing sales performance and KPIs. | [View Project](https://github.com/Usha127/DA-Projects---Power-BI/tree/master/Sales%20Data%20Analysis) |
+| Bank Churning Data Analysis | Bank Churning Data Analysis and Visualization through various charts. | [View Project](https://github.com/Usha127/DA-Projects---Power-BI/tree/master/Sales%20Data%20Analysis) |
 
 
 > *More projects coming soon...*
@@ -37,6 +40,10 @@ Each project demonstrates different aspects of working with data — from cleani
 - Data Modeling & ETL
 - Interactive Visualizations & Reports
 
+## 📊 Tools Used - Python programming
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Visual Studio Code (VS Code)
+- Sample CSV Dataset
 
 ---
 
